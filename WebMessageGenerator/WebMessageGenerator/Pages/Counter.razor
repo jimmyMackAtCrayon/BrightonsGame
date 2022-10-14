@@ -1,0 +1,96 @@
+﻿@page "/counter"
+@using Azure.Messaging.EventHubs;
+@using Azure.Messaging.EventHubs.Producer;
+@using Newtonsoft.Json;
+@using WebMessageGenerator.Models;
+@using System.Text;
+<PageTitle>Counter</PageTitle>
+
+<h1>@message</h1>
+
+<EditForm EditContext="@editContext">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    Name:
+    <br />
+    <InputText id="name" @bind-Value="game.Name" />
+    <br />
+    ID:
+    <br />
+    <InputText id="id" @bind-Value="game.GameId" />
+    <br />
+    Date:
+    <br />
+    <InputText id="date" @bind-Value="game.GameDate" />
+    <br />
+    <br />
+    <button class="btn btn-primary" @onclick="IncrementCount">Post</button>
+    <br/>
+   
+</EditForm>
+
+
+
+@code {
+    private EditContext editContext;
+    private Game game = new();
+    protected override void OnInitialized()
+    {
+        editContext = new(game);
+    }
+    private string message = "Send Event to Event Hub";
+    private int currentCount = 0;
+    private const string connectionString = "Endpoint=sb://jdm-eventhub-ns.servicebus.windows.net/;SharedAccessKeyName=connect;SharedAccessKey=f6RAAoXOE9Qdb0ybtgw0Ww9B9R1RfZJhD+55LrxDO3Q=;EntityPath=jdm-eh-1";
+
+    // name of the event hub
+    private const string eventHubName = "jdm-eh-1";
+
+    // number of events to be sent to the event hub
+    private const int numOfEvents = 1;
+    private EventHubProducerClient producerClient;
+
+    private async void IncrementCount()
+    {
+
+        List<Game> games = new List<Game>();
+        game = new Game() { Name = game.Name, GameId = game.GameId, GameDate = game.GameDate };
+        games.Add(game);
+
+
+        producerClient = new EventHubProducerClient(connectionString, eventHubName);
+        using EventDataBatch eventBatch = await producerClient.CreateBatchAsync();
+
+        for (int i = 1; i <= numOfEvents; i++)
+        {
+            if (!eventBatch.TryAdd(new EventData(Encoding.UTF8.GetBytes($"Event {JsonConvert.SerializeObject(games[i - 1])}"))))
+            {
+                // if it is too large for the batch
+                throw new Exception($"Event {i} is too large for the batch and cannot be sent.");
+            }
+
+        }
+        try
+        {
+            // Use the producer client to send the batch of events to the event hub
+            await producerClient.SendAsync(eventBatch);
+            Console.WriteLine($"A batch of {numOfEvents} events has been published.");
+            game.Name = "Vic";
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.ToString());
+            message = ex.Message;
+        }
+        finally
+        {
+            await producerClient.DisposeAsync();
+            message = "Sent";
+            game = new Game();
+            this.StateHasChanged();
+
+
+
+
+        }
+    }
+}
