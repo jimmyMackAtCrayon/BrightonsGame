@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebMessageGenerator
 build_property.RootNamespace = WebMessageGenerator
-build_property.ProjectDir = C:\Users\jimmcali\source\repos\WebMessageGenerator\WebMessageGenerator\
+build_property.ProjectDir = C:\Projects\BrightonsGame\WebMessageGenerator\WebMessageGenerator\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jimmcali\source\repos\WebMessageGenerator\WebMessageGenerator
+build_property.MSBuildProjectDirectory = C:\Projects\BrightonsGame\WebMessageGenerator\WebMessageGenerator
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/App.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Pages/Counter.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Pages/FetchData.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Pages/Index.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Shared/SurveyPrompt.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/_Imports.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Shared/MainLayout.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-bnobrwqjoh
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Shared/NavMenu.razor]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-pgphm6a38d
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Pages/Error.cshtml]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Pages/_Host.cshtml]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jimmcali/source/repos/WebMessageGenerator/WebMessageGenerator/Pages/_Layout.cshtml]
+[C:/Projects/BrightonsGame/WebMessageGenerator/WebMessageGenerator/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

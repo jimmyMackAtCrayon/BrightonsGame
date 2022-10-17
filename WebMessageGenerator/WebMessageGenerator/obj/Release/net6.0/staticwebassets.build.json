@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MBfnVt1zSz8s15nzoXBr9VaSejAIR6krvtOygaYiH9w=",
+  "Hash": "ynAJvYRKl/8jQYvEjxr8GtshtYkpBTmXNmgvoWRB7Ro=",
   "Source": "WebMessageGenerator",
   "BasePath": "_content/WebMessageGenerator",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebMessageGenerator\\wwwroot",
       "Source": "WebMessageGenerator",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebMessageGenerator.styles.css",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebMessageGenerator.styles.css",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "WebMessageGenerator.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebMessageGenerator.styles.css"
+      "OriginalItemSpec": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebMessageGenerator.styles.css"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebMessageGenerator.bundle.scp.css",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebMessageGenerator.bundle.scp.css",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "WebMessageGenerator.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebMessageGenerator.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebMessageGenerator.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\css\\site.css",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\favicon.ico",
       "SourceId": "WebMessageGenerator",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jimmcali\\source\\repos\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
       "BasePath": "_content/WebMessageGenerator",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\js\\Game.js",
+      "SourceId": "WebMessageGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "BasePath": "_content/WebMessageGenerator",
+      "RelativePath": "js/Game.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Game.js"
     }
   ]
 }

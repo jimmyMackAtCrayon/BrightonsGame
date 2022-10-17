@@ -41,9 +41,11 @@
     }
     private string message = "Send Event to Event Hub";
     private int currentCount = 0;
-    private const string connectionString = "Endpoint=sb://myeventhublearning.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=0FQ95/+5CcYHqfJBRmMvd+D3kqNlbySRjoi9sweUjLg=";
+    private const string connectionString = "Endpoint=sb://jdm-ns-game.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=3U7m7Y9NCjlPeJtk8zbdspPNG7U0d2/1qPQJki0Rzjk=";
+    //private const string connectionString = "Endpoint=sb://myeventhublearning.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=0FQ95/+5CcYHqfJBRmMvd+D3kqNlbySRjoi9sweUjLg=";
     // name of the event hub
-    private const string eventHubName = "better";
+    //private const string eventHubName = "better";
+    private const string eventHubName = "jdm-eh-container";
     // number of events to be sent to the event hub
     private const int numOfEvents = 1;
     private EventHubProducerClient producerClient;
