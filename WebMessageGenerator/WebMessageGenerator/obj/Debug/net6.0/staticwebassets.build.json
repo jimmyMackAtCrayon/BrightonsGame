@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tYxk3+Wr3SUNIXQUADhw6ZsPI4AxJJNnN4EPYy+J36g=",
+  "Hash": "hY0WbxWUlVp5aqotjV7txhsdspzEvBbwzYEiVQHomSA=",
   "Source": "WebMessageGenerator",
   "BasePath": "_content/WebMessageGenerator",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\js\\Game.js",
+      "SourceId": "WebMessageGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\BrightonsGame\\WebMessageGenerator\\WebMessageGenerator\\wwwroot\\",
+      "BasePath": "_content/WebMessageGenerator",
+      "RelativePath": "js/Game.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Game.js"
     }
   ]
 }
