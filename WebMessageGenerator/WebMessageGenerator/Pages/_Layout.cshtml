@@ -27,7 +27,17 @@
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
-    <script src="js/Game.js"></script>
+    <script>
+        // Game is here... collecting messages
+
+        window.sendMessage = (nada) => {
+            //send collected messages back to server - WHEN THE SERVER REQUESTS THEM
+            setTimeout(1000);
+            let currentDate = new Date();
+            let time = currentDate.getHours() + ":" + currentDate.getMinutes() + ":" + currentDate.getSeconds();
+            return time;
+        };
+    </script>
     <script src="_framework/blazor.server.js"></script>
 </body>
 </html>
